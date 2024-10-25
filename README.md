@@ -9,4 +9,4 @@ Right now, I'm diving into something, which has yet to cause an existential cris
 - 🌱 Improving my skills, hoping it’ll be useful before the robots take over. 🤖
 - 🎯 Next goal: Contributing to open source projects, because procrastination is my greatest skill.
 
-Feel free to check out my repos and connect with me—let’s create some chaos together! 😄
+Feel free to check out my repos —let’s create some chaos together! 😄
